@@ -1,7 +1,7 @@
 {
   "name": "suwatte-runners",
   "version": "2.0.0",
-  "description": "content sources made by mantton :]",
+  "description": "content sources made by thanh nha",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -16,9 +16,9 @@
     "suwatte"
   ],
   "author": {
-    "name": "Mantton",
-    "email": "mantton.official@gmail.com",
-    "url": "https://mantton.com"
+    "name": "Thanh Nha",
+    "email": "nt.nha1809@gmail.com",
+    "url": "https://thanhnha1999.github.io/"
   },
   "license": "MIT",
   "devDependencies": {
@@ -49,6 +49,6 @@
     "seedrandom": "^3.0.5"
   },
   "stt": {
-    "listName": "Mantton's List"
+    "listName": "Thanh Nha's List"
   }
 }

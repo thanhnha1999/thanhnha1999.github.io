@@ -1,3 +1,3 @@
 # Development Suwatte Sources
 
-Sources used during internal testing of Suwatte.
+Thanh Nha's Suwatte Sources
